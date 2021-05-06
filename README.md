@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 soyaliciaflores
+
+#### Desarrolladora web, comunicóloga y costeña. Estoy consciente que el mundo esta cambiando y que puedo contribuir en su evolución desarrollando soluciones tecnológicas, es por ello que tomé la decisión de aprender Javascript, HTML y CSS para convertirme en desarrolladora web. Estoy convencida que las mejores soluciones se dan innovando, por ello estudié una especialidad en competitividad y sustentabilidad. Sé que mis raíces costeñas y que la experiencia acumulada trabajando más de ocho años en comunicación aportan para tener una visión diferente desde donde enfrentar los problemas que se le presentan en el área de desarrollo web día con día.
+
 
 <!--
 **soyaliciaflores/soyaliciaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
