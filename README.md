@@ -1,19 +1,11 @@
-### Hi there 👋 soyaliciaflores
+### Hi there 👋 
 
-#### Desarrolladora web, comunicóloga y costeña. Estoy consciente que el mundo esta cambiando y que puedo contribuir en su evolución desarrollando soluciones tecnológicas, es por ello que tomé la decisión de aprender Javascript, HTML y CSS para convertirme en desarrolladora web. Estoy convencida que las mejores soluciones se dan innovando, por ello estudié una especialidad en competitividad y sustentabilidad. Sé que mis raíces costeñas y que la experiencia acumulada trabajando más de ocho años en comunicación aportan para tener una visión diferente desde donde enfrentar los problemas que se le presentan en el área de desarrollo web día con día.
+![](./assets/covergithub.png)
+
+✨I am a web developer and communicator. I am aware that the world is changing and that I can contribute to its evolution by developing technological solutions, which is why I made the decision to learn Javascript, HTML and CSS to become a web developer. I am convinced that the best solutions are given by innovating, that is why I studied a specialty in competitiveness and sustainability. ✨
 
 
-<!--
-**soyaliciaflores/soyaliciaflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying in < Laboratoria >
+- 🌱 I’m currently learning about javascript, HTML, CSS and React.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soyaliciaflores&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
